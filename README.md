@@ -87,9 +87,11 @@ The Dice coefficient is calculated for each organ class separately. This metric 
 The model's predictions are compared with the ground truth labels to visualize the segmentation results. Example slices from the validation set are plotted to illustrate the model's performance.
 
 
-Video Link
+The video is attached	
 
-https://drive.google.com/drive/folders/16D13Trodc9piSM1gDyJ5mgWzWMbgqOPL
-	
+
+
+https://github.com/user-attachments/assets/72ac18d4-1352-4f8e-8504-2a913f447435
+
 
 	
