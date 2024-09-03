@@ -88,10 +88,8 @@ The model's predictions are compared with the ground truth labels to visualize t
 
 
 Video Link
-Video - Google Drive
 
-
-
+https://drive.google.com/drive/folders/16D13Trodc9piSM1gDyJ5mgWzWMbgqOPL
 	
 
 	
